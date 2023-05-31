@@ -1,5 +1,5 @@
 # 코틀린 강의 정리용
-
+## token : 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
 ## 1. Junit5에서 사용되는 5가지 어노테이션
 ```
 1. @Test : 테스트 메소드를 지정합니다.
