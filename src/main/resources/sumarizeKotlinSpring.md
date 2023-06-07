@@ -11,3 +11,7 @@
 5. @AfterAll : 모든 테스트를 수행된 후에 실행되는 메소드 지정
     - companion object 내부에 @JvmStatic을 선언해야 합니다.
 ```
+##
+```
+1. junit과 assertThat은 무조건 test kotlin에서 실행해야 합니다.
+```
